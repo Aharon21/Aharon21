@@ -4,7 +4,7 @@
 - 💞️ I'm looking for a job in artificial intelligence or quantitative finance. 
 - 📫 How to reach me by mail ahaton.elbez@ensae.fr
 
-Let's check one of my most recent work 
+Let's check one of my most recent works 
 https://github.com/LaVendettaDeHoratio/VIX-prediction-through-FOMC-statement-NLP
 
 <!---
