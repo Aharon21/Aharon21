@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aharon21
-- 👀 I’m interested by market finance and the uses of mathematics in finance
-- 🌱 I’m currently learning mathematical finance, statistics and microeconomics
-- 💞️ I’m looking to collaborate on python for a lesson
+- 👀 I’m interested by financial mathematics and artificial intelligence (ML,DL,NLP,RL)
+- 🌱 I’m currently working as an apprentice in Machine Learning & Data Science at Natixis Investment Managers
+- 💞️ I'm looking for a job in artificial intelligence or quantitative finance. 
 - 📫 How to reach me by mail ahaton.elbez@ensae.fr
 
 Let's check one of my most recent work 
